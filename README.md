@@ -105,12 +105,17 @@ To run the project execute the following command:
 
 <!-- AUTHORS -->
 ## 👥 Author <a name="author"></a> 
-- Enobong Isong
  
-👤 **Author**
+👤 **Enobong Isong**
  - GitHub: [@githubhandle](https://github.com/Enoisong)
 - Twitter: [@twitterhandle](https://twitter.com/Enobongmisong)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/)
+
+👤 **Aklilu Mekonnen**
+
+- GitHub: [@akezeth](https://github.com/akezeth)
+- Twitter: [@akezeth](https://twitter.com/akezeth)
+- LinkedIn: [Aklilu Mekonnen](https://www.linkedin.com/in/aklilu-mekonnen/)
 
 ## 🔭 Future Features <a name="future-features"></a> 
  
